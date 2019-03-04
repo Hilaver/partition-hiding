@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  regedit-demo.cpp
+f:\workplace_visualstudio\regedit-demo\regedit-demo\regedit-demo.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+f:\workplace_visualstudio\regedit-demo\regedit-demo\regedit-demo.cpp(15): warning C4101: “subKey”: 未引用的局部变量
+  regedit-demo.vcxproj -> F:\Workplace_VisualStudio\regedit-demo\Debug\regedit-demo.exe
